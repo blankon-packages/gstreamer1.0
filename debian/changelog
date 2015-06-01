@@ -1,6 +1,7 @@
 gstreamer1.0 (1.5.0.1+git20150316-1blankon1) tambora; urgency=medium
 
-  * Merge with Debian Experimental 
+  * Merge with Debian Experimental
+  * Add new symbols
 
  -- Mahyuddin <yudi.al@gmail.com>  Mon, 01 Jun 2015 20:07:12 +0700
 
